@@ -98,7 +98,6 @@ public class ProductJpaService implements ProductRepository {
         } catch (Exception e) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND);
         }
-        throw new ResponseStatusException(HttpStatus.NO_CONTENT);
     }
 
     public Category getProductCategory(int productId) {
