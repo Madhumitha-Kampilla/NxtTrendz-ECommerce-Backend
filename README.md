@@ -1,5 +1,4 @@
-
-# NxtTrendz-2 (Spring Boot Project)
+# NxtTrendz E-Commerce Backend
 
 ## 🚀 Project Overview
 This is a backend application built using Spring Boot.  
