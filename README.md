@@ -62,4 +62,11 @@ NxtTrendz E-Commerce Backend is a RESTful web application developed using Spring
 ---
 
 ## 👩‍💻 Author
+
 **Madhumitha Kampilla**
+
+GitHub:
+https://github.com/Madhumitha-Kampilla
+
+LinkedIn:
+https://linkedin.com/in/kampillamadhumitha14
