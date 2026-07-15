@@ -1,8 +1,7 @@
 # NxtTrendz E-Commerce Backend
 
 ## 🚀 Project Overview
-This is a backend application built using Spring Boot.  
-It provides REST APIs for managing products and categories.
+NxtTrendz E-Commerce Backend is a RESTful web application developed using Spring Boot. It provides APIs for managing products and categories through a layered architecture consisting of Controller, Service, Repository, and Model components. The application demonstrates CRUD operations, REST API development, and database interaction using Spring Boot best practices.
 
 ---
 
@@ -11,6 +10,7 @@ It provides REST APIs for managing products and categories.
 - Spring Boot
 - REST APIs
 - Maven
+- SQL Database
 
 ---
 
@@ -23,9 +23,33 @@ It provides REST APIs for managing products and categories.
 ---
 
 ## ⚙️ Features
-- Create, Read, Update, Delete (CRUD) operations
-- RESTful API design
-- Layered architecture
+✔ Create, Read, Update and Delete Products
+
+✔ Category Management
+
+✔ Layered Architecture
+
+✔ RESTful API Design
+
+✔ Maven Build System
+
+✔ SQL Database Integration
+
+---
+
+## Future Enhancements
+
+• JWT Authentication
+
+• Spring Security
+
+• Pagination
+
+• Search API
+
+• Docker Deployment
+
+• Unit Testing
 
 ---
 
